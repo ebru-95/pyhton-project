@@ -6,3 +6,4 @@ location = input("Vancouver: ")
 
 # info screen
 print(f"My name is {name} from {country} studying at {school} in {location}")
+python quiz_solution.py
